@@ -1,8 +1,8 @@
 // Autowara - Next.js 기반 중고차 수출+내수 병행 플랫폼 MVP
 
 import { useState } from 'react';
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "../components/ui/card";
+import { Button } from "../components/ui/button";
 import Link from "next/link";
 
 const cars = [
